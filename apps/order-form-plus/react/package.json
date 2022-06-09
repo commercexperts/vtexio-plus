@@ -1,0 +1,22 @@
+{
+  "name": "order-form-plus",
+  "author": "Luiz Fernando da Silva",
+  "version": "0.1.0",
+  "description": "The order form plus.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vtex/order-items": "^0.6.3",
+    "@vtex/order-manager": "^0.5.4-beta.0",
+    "axios": "^0.27.2",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.5",
+    "@types/react": "^17.0.32",
+    "@vtex/tsconfig": "^0.6.0",
+    "vtex.order-items": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.order-items@0.13.1/public/@types/vtex.order-items",
+    "vtex.order-manager": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.order-manager@0.12.0/public/@types/vtex.order-manager",
+    "vtex.pixel-manager": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.8.0/public/@types/vtex.pixel-manager",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime"
+  }
+}

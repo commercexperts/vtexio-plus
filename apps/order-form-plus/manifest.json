@@ -1,0 +1,18 @@
+{
+  "name": "order-form-plus",
+  "vendor": "cx",
+  "version": "0.1.0",
+  "title": "The order form plus.",
+  "description": "The order form plus app.",
+  "dependencies": {
+    "vtex.order-manager": "0.x",
+    "vtex.order-items": "0.x",
+    "vtex.pixel-manager": "1.x"
+  },
+  "builders": {
+    "react": "3.x"
+  },
+  "credentialType": "absolute",
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
